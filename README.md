@@ -19,3 +19,15 @@ Business Value: This suggests Walmart acts as a "recession-proof" retailer. Cons
 Insight: By analyzing the Running Total, we see that the last quarter of the year (Oct–Dec) contributes to a disproportionate amount of the annual growth.
 
 Business Value: This highlights the critical importance of the "Q4" supply chain stability.
+
+## 📊 Interactive Dashboard
+I have developed a comprehensive business dashboard in Tableau to visualize these insights.
+
+**Click the link below to view the interactive version:**
+👉 [View Interactive Walmart Sales Dashboard on Tableau]
+(https://public.tableau.com/views/Walmart_salesanalysisproject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### What you can do with this dashboard:
+- **Filter by Store:** Click on any store in the "Powerhouse" chart to see its specific trends.
+- **Analyze Seasonality:** Hover over the line charts to see exact revenue numbers for specific months.
+- **Economic Correlation:** Interact with the scatter plot to see how unemployment peaks affected sales volume.
