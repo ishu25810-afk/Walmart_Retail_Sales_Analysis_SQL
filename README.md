@@ -7,7 +7,7 @@ Insight: Out of 45 stores, Store 20 is the top performer, generating over $301 M
 Business Value: This helps management identify which locations have the most successful operational models that could be replicated in lower-performing stores.
 
 2. The "Holiday Boost"
-Insight: Average weekly sales during holidays (~$1.12M) are significantly higher than normal weeks (~$1.04M).
+Insight: Average weekly sales during holidays ($1.12M) are significantly higher than normal weeks ($1.04M).
 Business Value: This 7.8% increase proves the effectiveness of holiday promotions and suggests that inventory should be stocked at least 15% higher during these periods to avoid "out-of-stock" scenarios.
 
 3. Economic Resilience
