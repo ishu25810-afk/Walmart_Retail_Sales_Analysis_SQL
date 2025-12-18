@@ -8,7 +8,6 @@ Business Value: This helps management identify which locations have the most suc
 
 2. The "Holiday Boost"
 Insight: Average weekly sales during holidays (~$1.12M) are significantly higher than normal weeks (~$1.04M).
-
 Business Value: This 7.8% increase proves the effectiveness of holiday promotions and suggests that inventory should be stocked at least 15% higher during these periods to avoid "out-of-stock" scenarios.
 
 3. Economic Resilience
